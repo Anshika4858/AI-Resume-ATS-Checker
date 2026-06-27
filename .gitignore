@@ -1,19 +1,5 @@
-# Virtual environments
 .venv/
-venv/
-
-# Python cache
 __pycache__/
 *.pyc
-
-# Database
-*.db
-
-# VS Code
-.vscode/
-
-# Environment variables
+.DS_Store
 .env
-
-# OS files
-desktop.ini
